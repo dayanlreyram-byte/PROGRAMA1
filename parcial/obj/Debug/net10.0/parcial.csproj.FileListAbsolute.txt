@@ -1,0 +1,15 @@
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\bin\Debug\net10.0\parcial.exe
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\bin\Debug\net10.0\parcial.deps.json
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\bin\Debug\net10.0\parcial.runtimeconfig.json
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\bin\Debug\net10.0\parcial.dll
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\bin\Debug\net10.0\parcial.pdb
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\obj\Debug\net10.0\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\obj\Debug\net10.0\parcial.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\obj\Debug\net10.0\parcial.AssemblyInfo.cs
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\obj\Debug\net10.0\parcial.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\obj\Debug\net10.0\parcial.sourcelink.json
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\obj\Debug\net10.0\parcial.dll
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\obj\Debug\net10.0\refint\parcial.dll
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\obj\Debug\net10.0\parcial.pdb
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\obj\Debug\net10.0\parcial.genruntimeconfig.cache
+C:\Users\ESTUDIANTES\OneDrive\Documentos\PROGRAMA1\parcial\obj\Debug\net10.0\ref\parcial.dll
