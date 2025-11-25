@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Animals/Animals.csproj" />
+  <Project Path="parcial/parcial.csproj" />
 </Solution>
